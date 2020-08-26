@@ -35,5 +35,7 @@
 
 * 第1-9週：無
 * 第10-17週：學AI真簡單(一、二冊)，全華圖書出版
+  
   [AI真簡單(I)：初探機器學習](http://www.chwa.com.tw/NEWciv/bookinfo.asp?b_no=04G11)
+  
   [學AI真簡單(II)：動手做深度學習](http://www.chwa.com.tw/NEWciv/bookinfo.asp?b_no=04G12)

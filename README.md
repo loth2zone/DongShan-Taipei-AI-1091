@@ -5,7 +5,7 @@
 * 學校：台北市私立東山高級中學
 * 學期：109學年度第一學期
 * 授課老師：James Huang https://ai4kids.ai/
-* Email: dongshan.taipei.ai@gmail.com
+* 課程Email: dongshan.taipei.ai@gmail.com
 
 ## 教學大綱
 

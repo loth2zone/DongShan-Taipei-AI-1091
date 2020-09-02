@@ -11,7 +11,7 @@
 
 |週次|日期|單元/主題|內容/綱要|投影片下載連結|範例程式|
 |---|---|---|---|---|---|
-|第1週|9/4|Python簡介|簡介Python程式語言與Google Colab雲端運算資源||[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week%201%20Python%E7%B0%A1%E4%BB%8B)|
+|第1週|9/4|Python簡介|簡介Python程式語言與Google Colab雲端運算資源|[連結](https://drive.google.com/file/d/1Vt4z3P2IOV9CEDvvFU2vmLbR4D4KRPy8/view?usp=sharing)|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week%201%20Python%E7%B0%A1%E4%BB%8B)|
 |第2週|9/11|Python變數與數學運算|介紹變數與如何使用Python進行數學運算|||
 |第3週|9/18|Python函式|介紹透過函式來達到程式模組化與提高重複使用性	|||
 |第4週|9/25|Python條件與迴圈|介紹Python邏輯判斷與迴圈運用|||

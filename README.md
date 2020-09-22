@@ -9,12 +9,12 @@
 
 ## 教學大綱
 
-|週次|日期|單元/主題|內容/綱要|投影片下載連結|範例程式|
+|週次|日期|單元/主題|內容/綱要|投影片下載連結|範例程式及參考解答|
 |---|---|---|---|---|---|
 |第1週|9/4|課程與Python簡介|簡介Python程式語言與Google Colab雲端運算資源|[連結](https://drive.google.com/file/d/1Vt4z3P2IOV9CEDvvFU2vmLbR4D4KRPy8/view?usp=sharing)|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week%201%20Python%E7%B0%A1%E4%BB%8B)|
 |第2週|9/11|Python變數與數學運算|介紹變數與如何使用Python進行數學運算|[連結](https://drive.google.com/file/d/1TxNlHZp7LztngwO3Tkh_NbPA37zfrOGM/view?usp=sharing)|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week%202%20%E4%BD%BF%E7%94%A8Python%E4%BE%86%E7%95%B6%E8%A8%88%E7%AE%97%E6%A9%9F%20-%20%E8%AE%8A%E6%95%B8%E8%88%87%E6%95%B8%E5%AD%B8%E9%81%8B%E7%AE%97)|
 |第3週|9/18|Python函式|介紹透過函式來達到程式模組化與提高重複使用性	|[連結](https://drive.google.com/file/d/1wbAXiCs9zJfcxlZznpz_w5uThdciuu7R/view?usp=sharing)|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week%203%20Python%E5%87%BD%E5%BC%8F)|
-|第4週|9/25|Python條件與迴圈|介紹Python邏輯判斷與迴圈運用|||
+|第4週|9/25|Python條件與迴圈|介紹Python邏輯判斷與迴圈運用|無|[連結](https://github.com/ai4kids-tw/DongShan-Taipei-AI-1091/tree/master/Week%204%20Python%E6%A2%9D%E4%BB%B6%E8%88%87%E8%BF%B4%E5%9C%88)|
 |第4週(9/26)|9/26|Python字元與字串|介紹Python如何使用與操作字串|||
 |第5週|10/2|中秋連假(9/26補行本周課程)|中秋連假|||
 |第6週|10/9|國慶日|國慶日|||

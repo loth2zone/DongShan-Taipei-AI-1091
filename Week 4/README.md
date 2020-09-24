@@ -18,7 +18,7 @@
 
 - 【任務4-6】好用的range：三種用法
 
-# Week 4-2 Python字串
+# Week 4-2 Python字串 (9/26課程)
 
 - 【任務4-7】初識字串(string)
 
